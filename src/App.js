@@ -4,7 +4,10 @@ import './App.css'
 class App extends Component {
   render () {
     return (
-      <div className='box' />
+      <div className='box' >
+
+        <h2>Hello World</h2>
+      </div>
     )
   }
 }
